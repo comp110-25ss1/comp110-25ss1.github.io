@@ -45,7 +45,38 @@
             }
         }
     ],
-    "2025-05-15": [],
+    "2025-05-15": [
+        {
+            "kind": "CL",
+            "n": 1,
+            "title": "Welcome to COMP110!",
+            "date": "2025-05-15",
+            "deadline": "2025-05-15",
+            "links": {
+                "Slides": "/static/slides/CL01_ Objects, Data Types, and Expressions.pdf"
+            }
+        },
+        {
+            "kind": "LS",
+            "n": 2,
+            "title": "Objects and Data Types",
+            "date": "2025-05-15",
+            "deadline": "2025-05-15",
+            "links": {
+                "Complete Lesson 02 Responses on Gradescope": "https://www.gradescope.com/"
+            }
+        },
+        {
+            "kind": "LS",
+            "n": 3,
+            "title": "Expressions",
+            "date": "2025-05-15",
+            "deadline": "2025-05-15",
+            "links": {
+                "Complete Lesson 03 Responses on Gradescope": "https://www.gradescope.com/"
+            }
+        }
+    ],
     "2025-05-16": [],
     "2025-05-17": [],
     "2025-05-18": [],

@@ -1,1 +1,48 @@
-{}
+{
+    "2025-05-14": [
+        {
+            "kind": "CL",
+            "n": 0,
+            "title": "Welcome to COMP110!",
+            "date": "2025-05-14",
+            "deadline": "2025-05-14",
+            "links": {
+                "Slides": "/static/slides/CL00_FDOC.pdf"
+            }
+        },
+        {
+            "kind": "LS",
+            "n": 0,
+            "title": "Syllabus Familiarity",
+            "date": "2025-05-14",
+            "deadline": "2025-05-14",
+            "links": {
+                "1. Read the Syllabus": "/resources/syllabus.html",
+                "2. Complete Lesson 00 Responses on Gradescope": "https://www.gradescope.com/"
+            }
+        },
+        {
+            "kind": "LS",
+            "n": 1,
+            "title": "Software Setup",
+            "date": "2025-05-14",
+            "deadline": "2025-05-14",
+            "links": {
+                "1. OS Update": "/resources/setup/os-update.html",
+                "2. Docker, git, VS Code": "/resources/setup/software.html",
+                "3. COMP110 Workspace": "/resources/setup/workspace.html",
+                "4. Complete the LS01 Responses on Gradescope": "https://www.gradescope.com/"
+            }
+        },
+        {
+            "kind": "EX",
+            "n": 0,
+            "title": "Hello World (Due Friday 5/16)",
+            "date": "2025-05-14",
+            "deadline": "2025-05-16",
+            "links": {
+                "": "/exercises/ex00_hello_world.html"
+            }
+        }
+    ]
+}
