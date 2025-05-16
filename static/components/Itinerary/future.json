@@ -1,6 +1,16 @@
 {
     "2025-05-16": [
         {
+            "kind": "CL",
+            "n": 2,
+            "title": "Intro to Functions and Memory Diagrams",
+            "date": "2025-05-16",
+            "deadline": "2025-05-16",
+            "links": {
+                "Slides": "/static/slides/CL02_fns_memdiags.pdf"
+            }
+        },
+        {
             "kind": "LS",
             "n": 4,
             "title": "Introducing Functions and Function Syntax",
