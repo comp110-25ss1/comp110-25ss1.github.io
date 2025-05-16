@@ -1,37 +1,26 @@
 {
-    "2025-05-15": [
+    "2025-05-16": [
         {
-            "kind": "CL",
-            "n": 1,
-            "title": "Objects, Data Types, and Expressions",
-            "date": "2025-05-15",
-            "deadline": "2025-05-15",
+            "kind": "LS",
+            "n": 4,
+            "title": "Introducing Functions and Function Syntax",
+            "date": "2025-05-16",
+            "deadline": "2025-05-16",
             "links": {
-                "Slides": "/static/slides/CL01_ Objects, Data Types, and Expressions.pdf"
+                "Complete Lesson 04 Responses on Gradescope": "https://www.gradescope.com/"
             }
         },
         {
-            "kind": "LS",
-            "n": 2,
-            "title": "Objects and Data Types",
-            "date": "2025-05-15",
-            "deadline": "2025-05-15",
+            "kind": "CQ",
+            "n": 0,
+            "title": "Upload the Memory Diagram from Class to Gradescope and Answer Associated Questions",
+            "date": "2025-05-16",
+            "deadline": "2025-05-16",
             "links": {
-                "Complete Lesson 02 Responses on Gradescope": "https://www.gradescope.com/"
-            }
-        },
-        {
-            "kind": "LS",
-            "n": 3,
-            "title": "Expressions",
-            "date": "2025-05-15",
-            "deadline": "2025-05-15",
-            "links": {
-                "Complete Lesson 03 Responses on Gradescope": "https://www.gradescope.com/"
+                "": "https://www.gradescope.com"
             }
         }
     ],
-    "2025-05-16": [],
     "2025-05-17": [],
     "2025-05-18": [],
     "2025-05-19": [
@@ -41,7 +30,12 @@
             "title": "Quiz 0",
             "date": "2025-05-19",
             "deadline": "2025-05-19",
-            "links": {}
+            "links": {
+                "Read Quiz Expectations": "/resources/quiz-expectations.html",
+                "Practice Quiz": "/static/practice/comp110-s25-qz00-practice.pdf",
+                "Practice Quiz Key": "/static/practice/comp110-s25-qz00-practice_IH.pdf",
+                "Practice Quiz Explanations": "https://youtu.be/bQCSBm-VfLc"
+            }
         }
     ],
     "2025-05-20": [],
