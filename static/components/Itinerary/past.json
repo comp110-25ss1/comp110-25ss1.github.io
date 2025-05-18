@@ -78,5 +78,38 @@
                 "Complete Lesson 03 Responses on Gradescope": "https://www.gradescope.com/"
             }
         }
-    ]
+    ],
+    "2025-05-16": [
+        {
+            "kind": "CL",
+            "n": 2,
+            "title": "Intro to Functions and Memory Diagrams",
+            "date": "2025-05-16",
+            "deadline": "2025-05-16",
+            "links": {
+                "Slides": "/static/slides/CL02_fns_memdiags.pdf"
+            }
+        },
+        {
+            "kind": "LS",
+            "n": 4,
+            "title": "Introducing Functions and Function Syntax",
+            "date": "2025-05-16",
+            "deadline": "2025-05-16",
+            "links": {
+                "Complete Lesson 04 Responses on Gradescope": "https://www.gradescope.com/"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 0,
+            "title": "Upload the Memory Diagram from Class to Gradescope and Answer Associated Questions",
+            "date": "2025-05-16",
+            "deadline": "2025-05-16",
+            "links": {
+                "": "https://www.gradescope.com"
+            }
+        }
+    ],
+    "2025-05-17": []
 }
