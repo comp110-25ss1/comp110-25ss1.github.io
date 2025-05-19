@@ -128,6 +128,16 @@
             }
         },
         {
+            "kind": "CL",
+            "n": 3,
+            "title": "Practice with Functions and Memory Diagrams + Quiz Review",
+            "date": "2025-05-19",
+            "deadline": "2025-05-19",
+            "links": {
+                "": ""
+            }
+        },
+        {
             "kind": "EX",
             "n": 1,
             "title": "Tea Party Planner (Due Saturday 5/24)",
