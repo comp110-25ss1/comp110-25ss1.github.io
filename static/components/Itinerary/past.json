@@ -112,5 +112,40 @@
         }
     ],
     "2025-05-17": [],
-    "2025-05-18": []
+    "2025-05-18": [],
+    "2025-05-19": [
+        {
+            "kind": "QZ",
+            "n": 0,
+            "title": "Quiz 0",
+            "date": "2025-05-19",
+            "deadline": "2025-05-19",
+            "links": {
+                "Read Quiz Expectations": "/resources/quiz-expectations.html",
+                "Practice Quiz": "/static/practice/comp110-s25-qz00-practice.pdf",
+                "Practice Quiz Key": "/static/practice/comp110-s25-qz00-practice_IH.pdf",
+                "Practice Quiz Explanations": "https://youtu.be/bQCSBm-VfLc"
+            }
+        },
+        {
+            "kind": "CL",
+            "n": 3,
+            "title": "Practice with Functions and Memory Diagrams + Quiz Review",
+            "date": "2025-05-19",
+            "deadline": "2025-05-19",
+            "links": {
+                "": ""
+            }
+        },
+        {
+            "kind": "EX",
+            "n": 1,
+            "title": "Tea Party Planner (Due Saturday 5/24)",
+            "date": "2025-05-19",
+            "deadline": "2025-05-24",
+            "links": {
+                "": "/exercises/ex01_tea_party_planner.html"
+            }
+        }
+    ]
 }

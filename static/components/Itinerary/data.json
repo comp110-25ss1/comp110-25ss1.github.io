@@ -148,7 +148,38 @@
             }
         }
     ],
-    "2025-05-20": [],
+    "2025-05-20": [
+        {
+            "kind": "CL",
+            "n": 4,
+            "title": "Boolean Operators and Conditional Control Flow",
+            "date": "2025-05-20",
+            "deadline": "2025-05-20",
+            "links": {
+                "Slides": "/static/slides/CL04_ Boolean Operators and Conditional Control Flow.pdf"
+            }
+        },
+        {
+            "kind": "LS",
+            "n": 5,
+            "title": "Boolean Operators",
+            "date": "2025-05-20",
+            "deadline": "2025-05-20",
+            "links": {
+                "Complete Lesson 05 Responses on Gradescope": "https://www.gradescope.com/"
+            }
+        },
+        {
+            "kind": "LS",
+            "n": 6,
+            "title": "Conditional Control Flow",
+            "date": "2025-05-20",
+            "deadline": "2025-05-20",
+            "links": {
+                "Complete Lesson 06 Responses on Gradescope": "https://www.gradescope.com/"
+            }
+        }
+    ],
     "2025-05-21": [],
     "2025-05-22": [],
     "2025-05-23": [
