@@ -87,7 +87,8 @@
             "date": "2025-05-16",
             "deadline": "2025-05-16",
             "links": {
-                "Slides": "/static/slides/CL02_fns_memdiags.pdf"
+                "Slides": "/static/slides/CL02_fns_memdiags.pdf",
+                "Memory Diagram Rules": "/static/slides/memory_diagrams_v0.pdf"
             }
         },
         {

@@ -87,7 +87,8 @@
             "date": "2025-05-16",
             "deadline": "2025-05-16",
             "links": {
-                "Slides": "/static/slides/CL02_fns_memdiags.pdf"
+                "Slides": "/static/slides/CL02_fns_memdiags.pdf",
+                "Memory Diagram Rules": "/static/slides/memory_diagrams_v0.pdf"
             }
         },
         {
@@ -156,7 +157,7 @@
             "date": "2025-05-20",
             "deadline": "2025-05-20",
             "links": {
-                "Slides": "/static/slides/CL04_ Boolean Operators and Conditional Control Flow.pdf"
+                "Slides": "/static/slides/CL04_booleanOps_conditionals.pdf"
             }
         },
         {
@@ -180,7 +181,40 @@
             }
         }
     ],
-    "2025-05-21": [],
+    "2025-05-21": [
+        {
+            "kind": "CL",
+            "n": 5,
+            "title": "f-Strings, Positional Arguments, Optional Parameters, and an Intro to Recursion",
+            "date": "2025-05-21",
+            "deadline": "2025-05-21",
+            "links": {
+                "Slides": "",
+                "Optional Reading on f-Strings and Unicode": "/lessons/strings.html",
+                "Optional Reading on Recursion": "/lessons/recursion.html"
+            }
+        },
+        {
+            "kind": "LS",
+            "n": 7,
+            "title": "Introduction to Recursion",
+            "date": "2025-05-21",
+            "deadline": "2025-05-21",
+            "links": {
+                "Complete Lesson 07 Responses on Gradescope": "https://www.gradescope.com/"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 1,
+            "title": "Upload the Memory Diagram from Class to Gradescope",
+            "date": "2025-05-21",
+            "deadline": "2025-05-21",
+            "links": {
+                "": "https://www.gradescope.com"
+            }
+        }
+    ],
     "2025-05-22": [],
     "2025-05-23": [
         {
@@ -189,7 +223,10 @@
             "title": "Quiz 1",
             "date": "2025-05-23",
             "deadline": "2025-05-23",
-            "links": {}
+            "links": {
+                "Read Quiz Expectations": "/resources/quiz-expectations.html",
+                "Practice Quiz": "/static/practice/COMP110___25_SS1___Quiz_1___Version_Practice_noSols.pdf"
+            }
         }
     ],
     "2025-05-24": [],
