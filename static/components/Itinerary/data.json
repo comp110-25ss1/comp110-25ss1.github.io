@@ -189,7 +189,7 @@
             "date": "2025-05-21",
             "deadline": "2025-05-21",
             "links": {
-                "Slides": "",
+                "Slides": "/static/slides/CL05_ Recursion, Positional Arguments.pdf",
                 "Optional Reading on f-Strings and Unicode": "/lessons/strings.html",
                 "Optional Reading on Recursion": "/lessons/recursion.html"
             }

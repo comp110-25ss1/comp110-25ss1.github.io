@@ -1,36 +1,4 @@
 {
-    "2025-05-20": [
-        {
-            "kind": "CL",
-            "n": 4,
-            "title": "Boolean Operators and Conditional Control Flow",
-            "date": "2025-05-20",
-            "deadline": "2025-05-20",
-            "links": {
-                "Slides": "/static/slides/CL04_booleanOps_conditionals.pdf"
-            }
-        },
-        {
-            "kind": "LS",
-            "n": 5,
-            "title": "Boolean Operators",
-            "date": "2025-05-20",
-            "deadline": "2025-05-20",
-            "links": {
-                "Complete Lesson 05 Responses on Gradescope": "https://www.gradescope.com/"
-            }
-        },
-        {
-            "kind": "LS",
-            "n": 6,
-            "title": "Conditional Control Flow",
-            "date": "2025-05-20",
-            "deadline": "2025-05-20",
-            "links": {
-                "Complete Lesson 06 Responses on Gradescope": "https://www.gradescope.com/"
-            }
-        }
-    ],
     "2025-05-21": [
         {
             "kind": "CL",
@@ -39,7 +7,7 @@
             "date": "2025-05-21",
             "deadline": "2025-05-21",
             "links": {
-                "Slides": "",
+                "Slides": "/static/slides/CL05_ Recursion, Positional Arguments.pdf",
                 "Optional Reading on f-Strings and Unicode": "/lessons/strings.html",
                 "Optional Reading on Recursion": "/lessons/recursion.html"
             }
