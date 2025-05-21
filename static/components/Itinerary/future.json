@@ -75,7 +75,8 @@
             "deadline": "2025-05-23",
             "links": {
                 "Read Quiz Expectations": "/resources/quiz-expectations.html",
-                "Practice Quiz": "/static/practice/COMP110___25_SS1___Quiz_1___Version_Practice_noSols.pdf"
+                "Practice Quiz": "/static/practice/COMP110___25_SS1___Quiz_1___Version_Practice_noSols.pdf",
+                "Practice Quiz Key": "/static/practice/comp110_25ss1_qz01_practice_key.pdf"
             }
         }
     ],
