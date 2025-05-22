@@ -1,39 +1,17 @@
 {
-    "2025-05-21": [
+    "2025-05-22": [
         {
             "kind": "CL",
-            "n": 5,
-            "title": "f-Strings, Positional Arguments, Optional Parameters, and an Intro to Recursion",
-            "date": "2025-05-21",
-            "deadline": "2025-05-21",
+            "n": 6,
+            "title": "Recursion Practice + Quiz Review",
+            "date": "2025-05-22",
+            "deadline": "2025-05-22",
             "links": {
-                "Slides": "/static/slides/CL05_introRecursion.pdf",
-                "Optional Reading on f-Strings and Unicode": "/lessons/strings.html",
+                "Slides": "/static/slides/CL06_ Recursion Practice.pdf",
                 "Optional Reading on Recursion": "/lessons/recursion.html"
-            }
-        },
-        {
-            "kind": "LS",
-            "n": 7,
-            "title": "Introduction to Recursion",
-            "date": "2025-05-21",
-            "deadline": "2025-05-21",
-            "links": {
-                "Complete Lesson 07 Responses on Gradescope": "https://www.gradescope.com/"
-            }
-        },
-        {
-            "kind": "CQ",
-            "n": 1,
-            "title": "Upload the Memory Diagram from Class to Gradescope",
-            "date": "2025-05-21",
-            "deadline": "2025-05-21",
-            "links": {
-                "": "https://www.gradescope.com"
             }
         }
     ],
-    "2025-05-22": [],
     "2025-05-23": [
         {
             "kind": "QZ",
