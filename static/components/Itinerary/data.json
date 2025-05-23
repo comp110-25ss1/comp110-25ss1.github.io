@@ -240,6 +240,17 @@
                 "Practice Quiz": "/static/practice/COMP110___25_SS1___Quiz_1___Version_Practice_noSols.pdf",
                 "Practice Quiz Key": "/static/practice/comp110_25ss1_qz01_practice_key.pdf"
             }
+        },
+        {
+            "kind": "CL",
+            "n": 7,
+            "title": "Practice Writing Recursive Functions",
+            "date": "2025-05-23",
+            "deadline": "2025-05-23",
+            "links": {
+                "Slides": "/static/slides/CL07_PracticeWritingRecursiveFunctions.pdf",
+                "Optional Reading on Recursion": "/lessons/recursion.html"
+            }
         }
     ],
     "2025-05-24": [],

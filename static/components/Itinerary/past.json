@@ -214,5 +214,18 @@
                 "": "https://www.gradescope.com"
             }
         }
+    ],
+    "2025-05-22": [
+        {
+            "kind": "CL",
+            "n": 6,
+            "title": "Recursion Practice + Quiz Review",
+            "date": "2025-05-22",
+            "deadline": "2025-05-22",
+            "links": {
+                "Slides": "/static/slides/CL06_RecursionPractice.pdf",
+                "Optional Reading on Recursion": "/lessons/recursion.html"
+            }
+        }
     ]
 }
