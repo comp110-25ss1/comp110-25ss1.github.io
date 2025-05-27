@@ -256,7 +256,50 @@
     "2025-05-24": [],
     "2025-05-25": [],
     "2025-05-26": [],
-    "2025-05-27": [],
+    "2025-05-27": [
+        {
+            "kind": "CL",
+            "n": 8,
+            "title": "Variables and while Loops",
+            "date": "2025-05-27",
+            "deadline": "2025-05-27",
+            "links": {
+                "Slides": "/static/slides/CL08_ Variables & While Loops.pdf",
+                "Optional Reading on Variables": "/lessons/variables.html",
+                "Optional Reading on while Loops": "/lessons/while_loops.html"
+            }
+        },
+        {
+            "kind": "LS",
+            "n": 8,
+            "title": "Variables",
+            "date": "2025-05-27",
+            "deadline": "2025-05-27",
+            "links": {
+                "Complete Lesson 08 Responses on Gradescope": "https://www.gradescope.com/"
+            }
+        },
+        {
+            "kind": "LS",
+            "n": 9,
+            "title": "While Loops",
+            "date": "2025-05-27",
+            "deadline": "2025-05-27",
+            "links": {
+                "Complete Lesson 09 Responses on Gradescope": "https://www.gradescope.com/"
+            }
+        },
+        {
+            "kind": "EX",
+            "n": 2,
+            "title": "Tea Party Planner (Due Sunday 6/1)",
+            "date": "2025-05-27",
+            "deadline": "2025-06-01",
+            "links": {
+                "": "/exercises/ex02_wordle.html"
+            }
+        }
+    ],
     "2025-05-28": [],
     "2025-05-29": [],
     "2025-05-30": [
