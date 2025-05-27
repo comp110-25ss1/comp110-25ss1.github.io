@@ -264,7 +264,7 @@
             "date": "2025-05-27",
             "deadline": "2025-05-27",
             "links": {
-                "Slides": "/static/slides/CL08_ Variables & While Loops.pdf",
+                "Slides": "/static/slides/CL08_Variables_while.pdf",
                 "Optional Reading on Variables": "/lessons/variables.html",
                 "Optional Reading on while Loops": "/lessons/while_loops.html"
             }
@@ -292,7 +292,7 @@
         {
             "kind": "EX",
             "n": 2,
-            "title": "Tea Party Planner (Due Sunday 6/1)",
+            "title": "Wordle (Due Sunday 6/1)",
             "date": "2025-05-27",
             "deadline": "2025-06-01",
             "links": {
