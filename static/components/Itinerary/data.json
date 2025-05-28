@@ -300,7 +300,28 @@
             }
         }
     ],
-    "2025-05-28": [],
+    "2025-05-28": [
+        {
+            "kind": "CL",
+            "n": 9,
+            "title": "Practice with while Loops and Intro to Lists",
+            "date": "2025-05-28",
+            "deadline": "2025-05-28",
+            "links": {
+                "Slides": "/static/slides/CL09_whilePractice_lists.pdf"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 2,
+            "title": "Upload the Table about Lists from Class to Gradescope",
+            "date": "2025-05-28",
+            "deadline": "2025-05-28",
+            "links": {
+                "": "https://www.gradescope.com"
+            }
+        }
+    ],
     "2025-05-29": [],
     "2025-05-30": [
         {
