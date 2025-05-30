@@ -321,5 +321,27 @@
                 "": "https://www.gradescope.com"
             }
         }
+    ],
+    "2025-05-29": [
+        {
+            "kind": "CL",
+            "n": 10,
+            "title": "Reference Types, Practice with Lists, and Nested while Loops",
+            "date": "2025-05-29",
+            "deadline": "2025-05-29",
+            "links": {
+                "Slides": "/static/slides/CL10_ Reference Types, Practice with Lists, and Nested while Loops for site.pdf"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 3,
+            "title": "Upload the Memory Diagram from Class to Gradescope",
+            "date": "2025-05-29",
+            "deadline": "2025-05-29",
+            "links": {
+                "": "https://www.gradescope.com"
+            }
+        }
     ]
 }

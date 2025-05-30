@@ -1,26 +1,4 @@
 {
-    "2025-05-29": [
-        {
-            "kind": "CL",
-            "n": 10,
-            "title": "Reference Types, Practice with Lists, and Nested while Loops",
-            "date": "2025-05-29",
-            "deadline": "2025-05-29",
-            "links": {
-                "Slides": "/static/slides/CL10_ Reference Types, Practice with Lists, and Nested while Loops for site.pdf"
-            }
-        },
-        {
-            "kind": "CQ",
-            "n": 3,
-            "title": "Upload the Memory Diagram from Class to Gradescope",
-            "date": "2025-05-29",
-            "deadline": "2025-05-29",
-            "links": {
-                "": "https://www.gradescope.com"
-            }
-        }
-    ],
     "2025-05-30": [
         {
             "kind": "QZ",
@@ -34,6 +12,16 @@
                 "Practice Quiz Explanations (Questions 1-4)": "https://youtu.be/osO2bx-xQGQ",
                 "Practice Quiz Explanations (Question 5)": "https://youtu.be/V_iU0fJFzis",
                 "Practice Quiz Explanations (Question 9)": "https://youtu.be/biDCe_BvYqg?feature=shared"
+            }
+        },
+        {
+            "kind": "CL",
+            "n": 11,
+            "title": "Quiz 2 Review",
+            "date": "2025-05-30",
+            "deadline": "2025-05-30",
+            "links": {
+                "Slides": "/static/slides/CL11_ Quiz Review.pdf"
             }
         }
     ],
