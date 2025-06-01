@@ -1,31 +1,4 @@
 {
-    "2025-05-30": [
-        {
-            "kind": "QZ",
-            "n": 2,
-            "title": "Quiz 2",
-            "date": "2025-05-30",
-            "deadline": "2025-05-30",
-            "links": {
-                "Practice Quiz": "/static/practice/COMP110___25_SS1___Quiz_2___Version_Practice.pdf",
-                "Practice Quiz Key": "/static/practice/COMP110_25SS1_QZ02_practice_key.pdf",
-                "Practice Quiz Explanations (Questions 1-4)": "https://youtu.be/osO2bx-xQGQ",
-                "Practice Quiz Explanations (Question 5)": "https://youtu.be/V_iU0fJFzis",
-                "Practice Quiz Explanations (Question 9)": "https://youtu.be/biDCe_BvYqg?feature=shared"
-            }
-        },
-        {
-            "kind": "CL",
-            "n": 11,
-            "title": "Quiz 2 Review",
-            "date": "2025-05-30",
-            "deadline": "2025-05-30",
-            "links": {
-                "Slides": "/static/slides/CL11_ Quiz Review.pdf"
-            }
-        }
-    ],
-    "2025-05-31": [],
     "2025-06-01": [],
     "2025-06-02": [],
     "2025-06-03": [],
