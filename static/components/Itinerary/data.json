@@ -425,7 +425,10 @@
             "title": "Quiz 3",
             "date": "2025-06-06",
             "deadline": "2025-06-06",
-            "links": {}
+            "links": {
+                "Practice Quiz": "/static/practice/COMP110___25_SS1___Quiz_3___Version_Practice__no_solutions_.pdf",
+                "Virtual Review Session on Thursday at 6pm ": ""
+            }
         }
     ],
     "2025-06-07": [],
