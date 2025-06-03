@@ -1,37 +1,16 @@
 {
-    "2025-06-02": [
+    "2025-06-03": [
         {
             "kind": "CL",
-            "n": 12,
-            "title": "Sets and Dictionaries",
-            "date": "2025-06-02",
-            "deadline": "2025-06-02",
+            "n": 13,
+            "title": "Sets, Dictionaries, and Intro to Time Complexity",
+            "date": "2025-06-03",
+            "deadline": "2025-06-03",
             "links": {
-                "Slides": "/static/slides/CL12_sets_dicts.pdf"
-            }
-        },
-        {
-            "kind": "LS",
-            "n": 10,
-            "title": "Dictionaries",
-            "date": "2025-06-02",
-            "deadline": "2025-06-02",
-            "links": {
-                "Complete Lesson 10 Responses on Gradescope": "https://www.gradescope.com/"
-            }
-        },
-        {
-            "kind": "EX",
-            "n": 3,
-            "title": "List Utility Functions (Due Wednesday 6/4)",
-            "date": "2025-06-02",
-            "deadline": "2025-06-04",
-            "links": {
-                "": "/exercises/ex03_list_utils_p1.html"
+                "Slides": "/static/slides/CL13_ Sets, Dictionaries, and Intro to Time Complexity.pdf"
             }
         }
     ],
-    "2025-06-03": [],
     "2025-06-04": [],
     "2025-06-05": [],
     "2025-06-06": [

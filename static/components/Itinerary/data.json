@@ -404,7 +404,18 @@
             }
         }
     ],
-    "2025-06-03": [],
+    "2025-06-03": [
+        {
+            "kind": "CL",
+            "n": 13,
+            "title": "Sets, Dictionaries, and Intro to Time Complexity",
+            "date": "2025-06-03",
+            "deadline": "2025-06-03",
+            "links": {
+                "Slides": "/static/slides/CL13_ Sets, Dictionaries, and Intro to Time Complexity.pdf"
+            }
+        }
+    ],
     "2025-06-04": [],
     "2025-06-05": [],
     "2025-06-06": [

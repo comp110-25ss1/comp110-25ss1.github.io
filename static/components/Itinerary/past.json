@@ -371,5 +371,37 @@
         }
     ],
     "2025-05-31": [],
-    "2025-06-01": []
+    "2025-06-01": [],
+    "2025-06-02": [
+        {
+            "kind": "CL",
+            "n": 12,
+            "title": "Sets and Dictionaries",
+            "date": "2025-06-02",
+            "deadline": "2025-06-02",
+            "links": {
+                "Slides": "/static/slides/CL12_sets_dicts.pdf"
+            }
+        },
+        {
+            "kind": "LS",
+            "n": 10,
+            "title": "Dictionaries",
+            "date": "2025-06-02",
+            "deadline": "2025-06-02",
+            "links": {
+                "Complete Lesson 10 Responses on Gradescope": "https://www.gradescope.com/"
+            }
+        },
+        {
+            "kind": "EX",
+            "n": 3,
+            "title": "List Utility Functions (Due Wednesday 6/4)",
+            "date": "2025-06-02",
+            "deadline": "2025-06-04",
+            "links": {
+                "": "/exercises/ex03_list_utils_p1.html"
+            }
+        }
+    ]
 }
