@@ -449,6 +449,16 @@
             "links": {
                 "Slides": "/static/slides/CL15_ Importing and Writing Automated Tests for Functions for site.pdf"
             }
+        },
+        {
+            "kind": "EX",
+            "n": 4,
+            "title": "Dictionary Utility Functions (Due Saturday 6/7)",
+            "date": "2025-06-05",
+            "deadline": "2025-06-07",
+            "links": {
+                "": "/exercises/ex04_dict_functions.html"
+            }
         }
     ],
     "2025-06-06": [
