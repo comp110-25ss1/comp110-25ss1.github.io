@@ -330,7 +330,8 @@
             "date": "2025-05-29",
             "deadline": "2025-05-29",
             "links": {
-                "Slides": "/static/slides/CL10_ Reference Types, Practice with Lists, and Nested while Loops for site.pdf"
+                "Slides": "/static/slides/CL10_ Reference Types, Practice with Lists, and Nested while Loops for site.pdf",
+                "Annotated Slides": "/static/slides/CL10_annotated.pdf"
             }
         },
         {
@@ -438,7 +439,18 @@
             }
         }
     ],
-    "2025-06-05": [],
+    "2025-06-05": [
+        {
+            "kind": "CL",
+            "n": 15,
+            "title": "Importing and Writing Automated Tests for Functions",
+            "date": "2025-06-05",
+            "deadline": "2025-06-05",
+            "links": {
+                "Slides": "/static/slides/CL15_ Importing and Writing Automated Tests for Functions for site.pdf"
+            }
+        }
+    ],
     "2025-06-06": [
         {
             "kind": "QZ",

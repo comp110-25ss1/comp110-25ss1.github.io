@@ -330,7 +330,8 @@
             "date": "2025-05-29",
             "deadline": "2025-05-29",
             "links": {
-                "Slides": "/static/slides/CL10_ Reference Types, Practice with Lists, and Nested while Loops for site.pdf"
+                "Slides": "/static/slides/CL10_ Reference Types, Practice with Lists, and Nested while Loops for site.pdf",
+                "Annotated Slides": "/static/slides/CL10_annotated.pdf"
             }
         },
         {
@@ -413,6 +414,28 @@
             "deadline": "2025-06-03",
             "links": {
                 "Slides": "/static/slides/CL13_ Sets, Dictionaries, and Intro to Time Complexity.pdf"
+            }
+        }
+    ],
+    "2025-06-04": [
+        {
+            "kind": "CL",
+            "n": 14,
+            "title": "Practice with Lists, Sets, and Dictionaries",
+            "date": "2025-06-04",
+            "deadline": "2025-06-04",
+            "links": {
+                "Slides": "/static/slides/CL14_lists_sets_dicts_practice.pdf"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 4,
+            "title": "Upload the Memory Diagram from Class to Gradescope",
+            "date": "2025-06-04",
+            "deadline": "2025-06-04",
+            "links": {
+                "": "https://www.gradescope.com"
             }
         }
     ]
