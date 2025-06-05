@@ -453,9 +453,9 @@
         {
             "kind": "EX",
             "n": 4,
-            "title": "Dictionary Utility Functions (Due Saturday 6/7)",
+            "title": "Dictionary Utility Functions (Due Monday 6/9)",
             "date": "2025-06-05",
-            "deadline": "2025-06-07",
+            "deadline": "2025-06-09",
             "links": {
                 "": "/exercises/ex04_dict_functions.html"
             }
