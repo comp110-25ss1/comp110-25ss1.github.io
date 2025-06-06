@@ -484,6 +484,16 @@
             "links": {
                 "Slides": "/static/slides/CL16_ Quiz Review.pdf"
             }
+        },
+        {
+            "kind": "RD",
+            "n": 0,
+            "title": "Weapons of Math Destruction (Due Wednesday 6/11)",
+            "date": "2025-06-06",
+            "deadline": "2025-06-11",
+            "links": {
+                "Read the chapter linked in the Gradescope instructions and answer the associated questions": "https://gradescope.com"
+            }
         }
     ],
     "2025-06-07": [],
