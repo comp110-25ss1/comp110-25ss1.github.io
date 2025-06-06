@@ -438,5 +438,27 @@
                 "": "https://www.gradescope.com"
             }
         }
+    ],
+    "2025-06-05": [
+        {
+            "kind": "CL",
+            "n": 15,
+            "title": "Importing and Writing Automated Tests for Functions",
+            "date": "2025-06-05",
+            "deadline": "2025-06-05",
+            "links": {
+                "Slides": "/static/slides/CL15_ Importing and Writing Automated Tests for Functions for site.pdf"
+            }
+        },
+        {
+            "kind": "EX",
+            "n": 4,
+            "title": "Dictionary Utility Functions (Due Monday 6/9)",
+            "date": "2025-06-05",
+            "deadline": "2025-06-09",
+            "links": {
+                "": "/exercises/ex04_dict_functions.html"
+            }
+        }
     ]
 }

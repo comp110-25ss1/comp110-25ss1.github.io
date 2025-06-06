@@ -1,26 +1,4 @@
 {
-    "2025-06-05": [
-        {
-            "kind": "CL",
-            "n": 15,
-            "title": "Importing and Writing Automated Tests for Functions",
-            "date": "2025-06-05",
-            "deadline": "2025-06-05",
-            "links": {
-                "Slides": "/static/slides/CL15_ Importing and Writing Automated Tests for Functions for site.pdf"
-            }
-        },
-        {
-            "kind": "EX",
-            "n": 4,
-            "title": "Dictionary Utility Functions (Due Monday 6/9)",
-            "date": "2025-06-05",
-            "deadline": "2025-06-09",
-            "links": {
-                "": "/exercises/ex04_dict_functions.html"
-            }
-        }
-    ],
     "2025-06-06": [
         {
             "kind": "QZ",
@@ -33,6 +11,16 @@
                 "Practice Quiz Key": "/static/practice/comp110_25ss1_qz03_practice_key.pdf",
                 "Practice Quiz Explanations": "https://youtu.be/88Xl0ywz47o",
                 "Virtual Review Session on Thursday at 6pm ": ""
+            }
+        },
+        {
+            "kind": "CL",
+            "n": 16,
+            "title": "Quiz Review",
+            "date": "2025-06-06",
+            "deadline": "2025-06-06",
+            "links": {
+                "Slides": "/static/slides/CL16_ Quiz Review.pdf"
             }
         }
     ],

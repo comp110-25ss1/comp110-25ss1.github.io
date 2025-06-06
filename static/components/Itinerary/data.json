@@ -474,6 +474,16 @@
                 "Practice Quiz Explanations": "https://youtu.be/88Xl0ywz47o",
                 "Virtual Review Session on Thursday at 6pm ": ""
             }
+        },
+        {
+            "kind": "CL",
+            "n": 16,
+            "title": "Quiz Review",
+            "date": "2025-06-06",
+            "deadline": "2025-06-06",
+            "links": {
+                "Slides": "/static/slides/CL16_ Quiz Review.pdf"
+            }
         }
     ],
     "2025-06-07": [],
