@@ -1,42 +1,26 @@
 {
-    "2025-06-06": [
-        {
-            "kind": "QZ",
-            "n": 3,
-            "title": "Quiz 3",
-            "date": "2025-06-06",
-            "deadline": "2025-06-06",
-            "links": {
-                "Practice Quiz": "/static/practice/COMP110___25_SS1___Quiz_3___Version_Practice__no_solutions_.pdf",
-                "Practice Quiz Key": "/static/practice/comp110_25ss1_qz03_practice_key.pdf",
-                "Practice Quiz Explanations": "https://youtu.be/88Xl0ywz47o",
-                "Virtual Review Session on Thursday at 6pm ": ""
-            }
-        },
+    "2025-06-09": [
         {
             "kind": "CL",
-            "n": 16,
-            "title": "Quiz Review",
-            "date": "2025-06-06",
-            "deadline": "2025-06-06",
+            "n": 17,
+            "title": "Intro to Object-Oriented Programming",
+            "date": "2025-06-09",
+            "deadline": "2025-06-09",
             "links": {
-                "Slides": "/static/slides/CL16_ Quiz Review.pdf"
+                "Slides": "/static/slides/CL17_ IntrotoOOP.pdf"
             }
         },
         {
-            "kind": "RD",
-            "n": 0,
-            "title": "Weapons of Math Destruction (Due Wednesday 6/11)",
-            "date": "2025-06-06",
-            "deadline": "2025-06-11",
+            "kind": "LS",
+            "n": 11,
+            "title": "Intro to OOP",
+            "date": "2025-06-09",
+            "deadline": "2025-06-09",
             "links": {
-                "Read the chapter linked in the Gradescope instructions and answer the associated questions": "https://gradescope.com"
+                "Complete Lesson 11 Responses on Gradescope": "https://www.gradescope.com/"
             }
         }
     ],
-    "2025-06-07": [],
-    "2025-06-08": [],
-    "2025-06-09": [],
     "2025-06-10": [],
     "2025-06-11": [],
     "2025-06-12": [],
