@@ -1,27 +1,26 @@
 {
-    "2025-06-09": [
+    "2025-06-10": [
         {
             "kind": "CL",
-            "n": 17,
-            "title": "Intro to Object-Oriented Programming",
-            "date": "2025-06-09",
-            "deadline": "2025-06-09",
+            "n": 18,
+            "title": "OOP Practice and a Magic Method",
+            "date": "2025-06-10",
+            "deadline": "2025-06-10",
             "links": {
-                "Slides": "/static/slides/CL17_ IntrotoOOP.pdf"
+                "Slides": "site/static/slides/CL18_ OOP Practice.pdf"
             }
         },
         {
-            "kind": "LS",
-            "n": 11,
-            "title": "Intro to OOP",
-            "date": "2025-06-09",
-            "deadline": "2025-06-09",
+            "kind": "CQ",
+            "n": 5,
+            "title": "Upload the Memory Diagram from Class to Gradescope",
+            "date": "2025-06-10",
+            "deadline": "2025-06-10",
             "links": {
-                "Complete Lesson 11 Responses on Gradescope": "https://www.gradescope.com/"
+                "": "https://www.gradescope.com"
             }
         }
     ],
-    "2025-06-10": [],
     "2025-06-11": [],
     "2025-06-12": [],
     "2025-06-13": [

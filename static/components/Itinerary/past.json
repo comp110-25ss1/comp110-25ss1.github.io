@@ -497,5 +497,27 @@
         }
     ],
     "2025-06-07": [],
-    "2025-06-08": []
+    "2025-06-08": [],
+    "2025-06-09": [
+        {
+            "kind": "CL",
+            "n": 17,
+            "title": "Intro to Object-Oriented Programming",
+            "date": "2025-06-09",
+            "deadline": "2025-06-09",
+            "links": {
+                "Slides": "/static/slides/CL17_ IntrotoOOP.pdf"
+            }
+        },
+        {
+            "kind": "LS",
+            "n": 11,
+            "title": "Intro to OOP",
+            "date": "2025-06-09",
+            "deadline": "2025-06-09",
+            "links": {
+                "Complete Lesson 11 Responses on Gradescope": "https://www.gradescope.com/"
+            }
+        }
+    ]
 }
