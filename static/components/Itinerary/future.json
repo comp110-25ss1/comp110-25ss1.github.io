@@ -1,5 +1,36 @@
 {
-    "2025-06-11": [],
+    "2025-06-11": [
+        {
+            "kind": "CL",
+            "n": 19,
+            "title": "Recursive Structures and Processes",
+            "date": "2025-06-11",
+            "deadline": "2025-06-11",
+            "links": {
+                "Slides": "/static/slides/CL19_ Recursive Structures and Processes.pdf"
+            }
+        },
+        {
+            "kind": "LS",
+            "n": 12,
+            "title": "Recursive Structures",
+            "date": "2025-06-11",
+            "deadline": "2025-06-11",
+            "links": {
+                "Complete Lesson 12 Responses on Gradescope": "https://www.gradescope.com/"
+            }
+        },
+        {
+            "kind": "EX",
+            "n": 5,
+            "title": "River Simulation (Due Monday 6/16)",
+            "date": "2025-06-11",
+            "deadline": "2025-06-16",
+            "links": {
+                "": "/exercises/ex05_river_sim.html"
+            }
+        }
+    ],
     "2025-06-12": [],
     "2025-06-13": [
         {
