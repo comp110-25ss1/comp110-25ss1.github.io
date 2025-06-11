@@ -1,26 +1,4 @@
 {
-    "2025-06-10": [
-        {
-            "kind": "CL",
-            "n": 18,
-            "title": "OOP Practice and a Magic Method",
-            "date": "2025-06-10",
-            "deadline": "2025-06-10",
-            "links": {
-                "Slides": "/static/slides/CL18_ OOP Practice.pdf"
-            }
-        },
-        {
-            "kind": "CQ",
-            "n": 5,
-            "title": "Upload the Memory Diagram from Class to Gradescope",
-            "date": "2025-06-10",
-            "deadline": "2025-06-10",
-            "links": {
-                "": "https://www.gradescope.com"
-            }
-        }
-    ],
     "2025-06-11": [],
     "2025-06-12": [],
     "2025-06-13": [

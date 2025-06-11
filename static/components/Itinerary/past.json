@@ -469,9 +469,7 @@
             "date": "2025-06-06",
             "deadline": "2025-06-06",
             "links": {
-                "Practice Quiz": "/static/practice/COMP110___25_SS1___Quiz_3___Version_Practice__no_solutions_.pdf",
-                "Practice Quiz Key": "/static/practice/comp110_25ss1_qz03_practice_key.pdf",
-                "Practice Quiz Explanations": "https://youtu.be/88Xl0ywz47o",
+                "Practice Quiz": "/static/practice/COMP110_25ss1_QZ04_Practice.pdf",
                 "Virtual Review Session on Thursday at 6pm ": ""
             }
         },
@@ -517,6 +515,28 @@
             "deadline": "2025-06-09",
             "links": {
                 "Complete Lesson 11 Responses on Gradescope": "https://www.gradescope.com/"
+            }
+        }
+    ],
+    "2025-06-10": [
+        {
+            "kind": "CL",
+            "n": 18,
+            "title": "OOP Practice and a Magic Method",
+            "date": "2025-06-10",
+            "deadline": "2025-06-10",
+            "links": {
+                "Slides": "/static/slides/CL18_ OOP Practice.pdf"
+            }
+        },
+        {
+            "kind": "CQ",
+            "n": 5,
+            "title": "Upload the Memory Diagram from Class to Gradescope",
+            "date": "2025-06-10",
+            "deadline": "2025-06-10",
+            "links": {
+                "": "https://www.gradescope.com"
             }
         }
     ]
