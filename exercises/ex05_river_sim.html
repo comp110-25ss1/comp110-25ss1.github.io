@@ -9,7 +9,7 @@
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
     integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
-  <link rel="stylesheet" href="/static/styles.css?v=1749649447.5648258">
+  <link rel="stylesheet" href="/static/styles.css?v=1749655644.1092887">
 </head>
 
 
@@ -173,9 +173,11 @@ If you're still having issues, please come to office hours! -->
 <p>You will find the starter files needed in the course workspace repository. Before beginning:</p>
 <ol start="0" type="1">
 <li>Ensure you are in your course workspace. Open the file explorer and you should see your work for the course. If you do not, open your course workspace through File &gt; Open Recent.</li>
-<li>Open the File Explorer pane (by clicking the icon of overlapping papers in the top left corner of VS Code) and open the <code>exercises</code> directory (folder). You should see it contains a directory named <code>ex07</code>. Right click the folder, and select “Rename” to rename this folder to <code>ex05</code>. If you expand that directory, you should see the starter files for the code you’ll be writing.</li>
-<li>If you do not see this folder or you have questions about this task, please visit us in Office Hours.</li>
+<li>Open the File Explorer pane (by clicking the icon of overlapping papers in the top left corner of VS Code) and open the <code>exercises</code> directory (folder). You should see it contains a directory named <code>ex07</code>. Right click the folder, and select “Rename” to rename this folder to <code>ex05</code>. If you expand that directory, you should see the starter files for the code you’ll be writing. If you do not see this folder or you have questions about this task, please visit us in Office Hours.</li>
+<li>In your <code>ex05</code> folder, open the <code>river.py</code> file and update the import statements on lines 3 and 4 to refer to <code>ex05</code>, rather than <code>ex07</code>. In other words, change these import statements to:</li>
 </ol>
+<div class="sourceCode" id="cb1"><pre class="sourceCode python"><code class="sourceCode python"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true"></a><span class="im">from</span> exercises.ex05.fish <span class="im">import</span> Fish</span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true"></a><span class="im">from</span> exercises.ex05.bear <span class="im">import</span> Bear</span></code></pre></div>
 <h2 id="create-bear-class">1. Create Bear Class</h2>
 <p>All of the work for this part will be done in the file <code>bear.py</code>.</p>
 <h3 id="class-bear-attributes">1.1 <code>class Bear</code> attributes</h3>
