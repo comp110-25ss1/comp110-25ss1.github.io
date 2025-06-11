@@ -8,7 +8,10 @@
             "title": "Quiz 4",
             "date": "2025-06-13",
             "deadline": "2025-06-13",
-            "links": {}
+            "links": {
+                "Practice Quiz": "/static/practice/COMP110_25ss1_QZ04_Practice.pdf",
+                "Virtual Review Session on Thursday at 6pm ": ""
+            }
         }
     ],
     "2025-06-14": [],

@@ -469,7 +469,9 @@
             "date": "2025-06-06",
             "deadline": "2025-06-06",
             "links": {
-                "Practice Quiz": "/static/practice/COMP110_25ss1_QZ04_Practice.pdf",
+                "Practice Quiz": "/static/practice/COMP110___25_SS1___Quiz_3___Version_Practice__no_solutions_.pdf",
+                "Practice Quiz Key": "/static/practice/comp110_25ss1_qz03_practice_key.pdf",
+                "Practice Quiz Explanations": "https://youtu.be/88Xl0ywz47o",
                 "Virtual Review Session on Thursday at 6pm ": ""
             }
         },
@@ -549,7 +551,10 @@
             "title": "Quiz 4",
             "date": "2025-06-13",
             "deadline": "2025-06-13",
-            "links": {}
+            "links": {
+                "Practice Quiz": "/static/practice/COMP110_25ss1_QZ04_Practice.pdf",
+                "Virtual Review Session on Thursday at 6pm ": ""
+            }
         }
     ],
     "2025-06-14": [],
