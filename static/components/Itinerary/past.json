@@ -573,5 +573,17 @@
                 "": "/exercises/ex05_river_sim.html"
             }
         }
+    ],
+    "2025-06-12": [
+        {
+            "kind": "CL",
+            "n": 20,
+            "title": "Recursive Structures and Processes",
+            "date": "2025-06-12",
+            "deadline": "2025-06-12",
+            "links": {
+                "Slides": "/static/slides/CL20_more_recursive_structures.pdf"
+            }
+        }
     ]
 }
