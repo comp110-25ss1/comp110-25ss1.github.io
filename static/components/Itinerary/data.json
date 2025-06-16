@@ -621,16 +621,48 @@
             "date": "2025-06-16",
             "deadline": "2025-06-16",
             "links": {
-                "": ""
+                "Slides": "/static/slides/CL22_ Final Exam Review for site.pdf"
             }
         }
     ],
-    "2025-06-17": [],
+    "2025-06-17": [
+        {
+            "kind": "CL",
+            "n": 23,
+            "title": "LDOC!",
+            "date": "2025-06-17",
+            "deadline": "2025-06-17",
+            "links": {
+                "Slides": ""
+            }
+        }
+    ],
     "2025-06-20": [
         {
             "kind": "FN",
             "n": 0,
             "title": "Final @ 8:00AM",
+            "date": "2025-06-20",
+            "deadline": "None",
+            "links": {
+                "Practice Quiz 00": "/static/practice/comp110-s25-qz00-practice.pdf",
+                "Practice Quiz 00 Key": "/static/practice/comp110-s25-qz00-practice_IH.pdf",
+                "Practice Quiz 01": "/static/practice/COMP110___25_SS1___Quiz_1___Version_Practice_noSols.pdf",
+                "Practice Quiz 01 Key": "/static/practice/comp110_25ss1_qz01_practice_key.pdf",
+                "Practice Quiz 02": "/static/practice/COMP110___25_SS1___Quiz_2___Version_Practice.pdf",
+                "Practice Quiz 02 Key": "/static/practice/COMP110_25SS1_QZ02_practice_key.pdf",
+                "Practice Quiz 03": "/static/practice/COMP110___25_SS1___Quiz_3___Version_Practice__no_solutions_.pdf",
+                "Practice Quiz 03 Key": "/static/practice/comp110_25ss1_qz03_practice_key.pdf",
+                "Practice Quiz 04": "/static/practice/COMP110_25ss1_QZ04_Practice.pdf",
+                "Practice Quiz 04 Key": "/static/practice/comp110_25ss1_qz04_practice_key.pdf",
+                "Supplemental Final Exam Practice": "/static/practice/fn00-practice-pt1.pdf",
+                "Supplemental Final Exam Practice Key": "/static/practice/fn00-practice-pt1-key.pdf"
+            }
+        },
+        {
+            "kind": "FN",
+            "n": 0,
+            "title": "Final @ 11:30AM",
             "date": "2025-06-20",
             "deadline": "None",
             "links": {}
