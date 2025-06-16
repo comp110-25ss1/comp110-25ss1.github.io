@@ -585,5 +585,32 @@
                 "Slides": "/static/slides/CL20_more_recursive_structures.pdf"
             }
         }
-    ]
+    ],
+    "2025-06-13": [
+        {
+            "kind": "QZ",
+            "n": 4,
+            "title": "Quiz 4",
+            "date": "2025-06-13",
+            "deadline": "2025-06-13",
+            "links": {
+                "Practice Quiz": "/static/practice/COMP110_25ss1_QZ04_Practice.pdf",
+                "Practice Quiz Key": "/static/practice/comp110_25ss1_qz04_practice_key.pdf",
+                "Practice Quiz Explanations": "https://youtu.be/SjdVHcLnvAE",
+                "Virtual Review Session on Thursday at 6pm ": ""
+            }
+        },
+        {
+            "kind": "CL",
+            "n": 21,
+            "title": "Quiz Review",
+            "date": "2025-06-13",
+            "deadline": "2025-06-13",
+            "links": {
+                "Slides": "/static/slides/CL21_QZ04_review.pdf"
+            }
+        }
+    ],
+    "2025-06-14": [],
+    "2025-06-15": []
 }
