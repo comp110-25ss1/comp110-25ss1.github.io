@@ -1,16 +1,4 @@
 {
-    "2025-06-16": [
-        {
-            "kind": "CL",
-            "n": 22,
-            "title": "Final Exam Review",
-            "date": "2025-06-16",
-            "deadline": "2025-06-16",
-            "links": {
-                "Slides": "/static/slides/CL22_ Final Exam Review for site.pdf"
-            }
-        }
-    ],
     "2025-06-17": [
         {
             "kind": "CL",
@@ -19,7 +7,7 @@
             "date": "2025-06-17",
             "deadline": "2025-06-17",
             "links": {
-                "Slides": ""
+                "Slides": "/static/slides/CL23_ Recursive Art.pdf"
             }
         }
     ],
